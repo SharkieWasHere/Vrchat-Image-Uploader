@@ -4,6 +4,14 @@ Completely open source.
 
 Remember There are examples in the EXAMPLES folder.
 
+**HOW THE BOT WORKS**
+
+The bot will listen to the files in the desired directory you choose and auto upload them to the channel you choose.
+
+The bot will only upload the photo if it was created within the same minute of when it detects a change.
+
+There is a command to repload old photos "vrcrp".
+
 **BOT SET UP**
 
 You will need to create your own bot at "https://discord.com/developers/applications"
