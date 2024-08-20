@@ -47,6 +47,14 @@ This will repost all the images in the desired file you choose, incase u need th
 
 This is like the first time im coding in JavaScript (it was just a fun little project).
 
+**COMMANDS**
+
+There is currently 1 command. "vrcrp" (without the quotes). This stands for Vrchat Resend Photos.
+
+In the channel you designated the bot to function in, type "vrcrp" and it will come up with instructions.
+
+This will slowly repost the photos of your choosing into the channel. 
+
 
 **LINKS**
 
