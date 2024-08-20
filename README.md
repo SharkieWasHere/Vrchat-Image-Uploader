@@ -52,13 +52,6 @@ REMINDER: The Script will not close automatically after closing vrchat. the wind
 EXAMPLE:
 "C:\Users\shark\Documents\GitHub\discord-example-app\VrcTest.bat" %command% & "C:\Program Files (x86)\Steam\steamapps\common\VRChat\start_protected_game.exe" %command% 
 
-**EXTRA INFO**
-
-There is one command to the bot, all you have to say is "vrcrp" (no quotes). It stands for Vrchat Resend Photos.
-This will repost all the images in the desired file you choose, incase u need this. 
-
-This is like the first time im coding in JavaScript (it was just a fun little project).
-
 **COMMANDS**
 
 There is currently 1 command. "vrcrp" (without the quotes). This stands for Vrchat Resend Photos.
@@ -77,6 +70,7 @@ https://nodejs.org/api/fs.html
 
 (Lots of public forums..)
 
+This is like the first time im coding in JavaScript (it was just a fun little project).
 If you have any suggestions or any tips on the code please feel free to reach out!
 
 
