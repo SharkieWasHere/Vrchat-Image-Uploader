@@ -24,6 +24,10 @@ You will need the App ID, Public Key, and the Token from that bot and put it in 
 
 Next in that same .env you will need to put the channel ID of whatever discord channel you want the bot to send the photos and function in.
 
+Lastely you will need to put the directory of where Vrchat saves its photos (Or whatever else u need this bot for)
+
+(PLEASE SEE EXAMPLES TO MAKE SURE EVERYTHING IS CORRECT)
+
 **BAT SET UP**
 
 Now you have all the required variables, you need to set up a .bat file to run the javascript.
