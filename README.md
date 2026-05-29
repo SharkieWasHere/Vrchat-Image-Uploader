@@ -1,4 +1,6 @@
 # Ive made a better version as of recent, soon i will make it public if I ever feel its public ready.
+## Updates include - Rewriten in java - Uses / commands - Better File reading. - Easier Setup than this one\
+### Issues/ Reason for not public - Impacts Preformance when open for longer than 10 hours. ( Im lazy and for my self it works..)
 
 Please Install "node-v20.16.0-x64.msi", If you dont have it already, you can download it from https://nodejs.org/en
 It is to run JavaScript directly from the code.
