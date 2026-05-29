@@ -1,3 +1,5 @@
+# Ive made a better version as of recent, soon i will make it public if I ever feel its public ready.
+
 Please Install "node-v20.16.0-x64.msi", If you dont have it already, you can download it from https://nodejs.org/en
 It is to run JavaScript directly from the code.
 Completely open source.
