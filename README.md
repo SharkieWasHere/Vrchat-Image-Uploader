@@ -1,4 +1,4 @@
-# Ive made a better version as of recent, soon i will make it public if I ever feel its public ready.
+# Ive made a better version as of recent, soon i will make it public if I ever feel its public ready. (Actually scratch that, It is never coming out as other applications have this built in.)
 ## Updates include - Rewriten in java - Uses / commands - Better File reading. - Easier Setup than this one\
 ### Issues/ Reason for not public - Impacts Preformance when open for longer than 10 hours. ( Im lazy and for my self it works..)
 
